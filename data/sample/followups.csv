@@ -1,0 +1,82 @@
+participant_id,checkpoint_days,response_date,status,new_role,employer,job_title,uses_ai,story_consent
+AIC-SP26-01,30,2026-05-31,employed_part_time,yes,Brightpath Tutoring,Program Assistant,sometimes,yes
+AIC-SP26-01,60,2026-06-25,employed_part_time,yes,Brightpath Tutoring,Program Assistant,sometimes,yes
+AIC-SP26-01,90,2026-07-24,employed_part_time,yes,Brightpath Tutoring,Program Assistant,sometimes,yes
+AIC-SP26-03,60,2026-06-24,internship_apprenticeship,yes,Brightpath Tutoring,Program Assistant,sometimes,no
+AIC-SP26-04,30,2026-05-31,employed_full_time,no,,,never,no
+AIC-SP26-04,90,2026-07-23,employed_full_time,yes,Northgate Logistics,Operations Assistant,regularly,no
+AIC-SP26-06,30,2026-05-31,self_employed,yes,Parkview Home Supply,Sales Associate,sometimes,yes
+AIC-SP26-06,60,2026-06-30,self_employed,yes,Parkview Home Supply,Sales Associate,sometimes,yes
+AIC-SP26-06,90,2026-07-25,self_employed,yes,Parkview Home Supply,Sales Associate,sometimes,yes
+AIC-SP26-07,30,2026-06-01,employed_full_time,yes,Riverside Community Clinic,Administrative Assistant,regularly,no
+AIC-SP26-07,60,2026-07-02,employed_full_time,yes,Riverside Community Clinic,Administrative Assistant,regularly,no
+AIC-SP26-07,90,2026-07-25,employed_full_time,yes,Riverside Community Clinic,Administrative Assistant,regularly,no
+AIC-SP26-08,30,2026-05-27,seeking,,,,,no
+AIC-SP26-08,60,2026-06-24,seeking,,,,,no
+AIC-SP26-08,90,2026-07-24,seeking,,,,,no
+AIC-SP26-09,30,2026-06-02,seeking,,,,,no
+AIC-SP26-09,60,2026-07-02,seeking,,,,,no
+AIC-SP26-09,90,2026-07-25,seeking,,,,,no
+AIC-SP26-10,30,2026-05-30,employed_part_time,yes,Fairmount Tax Services,Bookkeeping Assistant,regularly,yes
+AIC-SP26-10,60,2026-07-02,employed_part_time,yes,Fairmount Tax Services,Bookkeeping Assistant,regularly,yes
+AIC-SP26-10,90,2026-07-24,employed_part_time,yes,Fairmount Tax Services,Bookkeeping Assistant,regularly,yes
+AIC-SP26-11,30,2026-05-31,seeking,,,,,no
+AIC-SP26-11,90,2026-07-30,seeking,,,,,no
+AIC-SP26-12,30,2026-05-27,employed_part_time,no,,,sometimes,no
+AIC-SP26-12,60,2026-06-29,employed_part_time,no,,,never,no
+AIC-SP26-12,90,2026-07-26,employed_part_time,no,,,sometimes,no
+AIC-SP26-13,30,2026-05-31,employed_full_time,yes,Oakline Insurance,Junior Data Analyst,sometimes,no
+AIC-SP26-13,60,2026-06-28,employed_full_time,yes,Oakline Insurance,Junior Data Analyst,sometimes,no
+AIC-SP26-14,30,2026-06-01,employed_part_time,no,,,sometimes,no
+AIC-SP26-14,60,2026-06-26,employed_full_time,no,,,sometimes,no
+AIC-SP26-14,90,2026-07-23,employed_part_time,no,,,never,no
+AIC-SP26-15,30,2026-05-24,not_seeking,,,,,no
+AIC-SP26-15,60,2026-06-26,seeking,,,,,no
+AIC-SP26-16,30,2026-05-24,not_seeking,,,,,no
+AIC-SP26-16,90,2026-07-25,seeking,,,,,no
+AIC-SP26-17,30,2026-05-27,seeking,,,,,no
+AIC-SP26-17,60,2026-06-26,seeking,,,,,no
+AIC-SP26-17,90,2026-07-29,seeking,,,,,no
+AIC-SP26-18,30,2026-05-26,employed_full_time,no,,,never,yes
+AIC-SP26-18,90,2026-08-01,employed_full_time,no,,,never,yes
+AIC-SP26-19,30,2026-05-29,employed_full_time,yes,Lumen Marketing Co.,Marketing Coordinator,never,no
+AIC-SP26-19,60,2026-06-26,employed_full_time,yes,Lumen Marketing Co.,Marketing Coordinator,never,no
+AIC-SP26-22,30,2026-05-24,internship_apprenticeship,yes,Northgate Logistics,Operations Assistant,regularly,no
+AIC-SP26-22,60,2026-06-29,internship_apprenticeship,yes,Northgate Logistics,Operations Assistant,regularly,no
+AIC-SP26-23,30,2026-05-28,seeking,,,,,yes
+AIC-SP26-23,60,2026-06-29,internship_apprenticeship,yes,Metro Housing Authority,Data Entry Specialist,never,yes
+AIC-SP26-23,90,2026-07-26,internship_apprenticeship,yes,Metro Housing Authority,Data Entry Specialist,never,yes
+AIC-SP26-24,30,2026-05-24,employed_full_time,yes,Cedar Credit Union,Customer Support Associate,regularly,no
+AIC-SP26-24,60,2026-06-25,employed_full_time,yes,Cedar Credit Union,Customer Support Associate,regularly,no
+AIC-SP26-24,90,2026-07-25,employed_full_time,yes,Cedar Credit Union,Customer Support Associate,regularly,no
+AIC-SP26-26,30,2026-06-02,not_seeking,,,,,no
+AIC-SP26-26,60,2026-06-23,self_employed,yes,Parkview Home Supply,Sales Associate,regularly,no
+AIC-SP26-26,90,2026-07-23,self_employed,yes,Parkview Home Supply,Sales Associate,regularly,no
+AIC-SU26-01,30,2026-09-11,employed_part_time,no,,,never,no
+AIC-SU26-01,60,2026-10-09,internship_apprenticeship,yes,Brightpath Tutoring,Program Assistant,sometimes,no
+AIC-SU26-03,60,2026-10-09,seeking,,,,,no
+AIC-SU26-04,60,2026-10-09,employed_full_time,yes,Summit Staffing Partners,IT Help Desk Technician,regularly,yes
+AIC-SU26-05,30,2026-09-08,not_seeking,,,,,yes
+AIC-SU26-05,60,2026-10-07,seeking,,,,,yes
+AIC-SU26-07,30,2026-09-09,employed_part_time,no,,,never,yes
+AIC-SU26-08,30,2026-09-08,employed_full_time,yes,Metro Housing Authority,Data Entry Specialist,never,yes
+AIC-SU26-08,60,2026-10-09,employed_full_time,yes,Metro Housing Authority,Data Entry Specialist,never,yes
+AIC-SU26-09,30,2026-09-08,employed_full_time,no,,,never,no
+AIC-SU26-09,60,2026-10-07,employed_part_time,yes,Parkview Home Supply,Sales Associate,never,no
+AIC-SU26-10,60,2026-10-09,seeking,,,,,no
+AIC-SU26-11,30,2026-09-12,employed_full_time,no,,,never,yes
+AIC-SU26-11,60,2026-10-09,employed_part_time,no,,,sometimes,yes
+AIC-SU26-12,30,2026-09-15,employed_full_time,yes,Brightpath Tutoring,Program Assistant,regularly,yes
+AIC-SU26-13,30,2026-09-10,seeking,,,,,yes
+AIC-SU26-13,60,2026-10-06,seeking,,,,,yes
+AIC-SU26-14,30,2026-09-08,not_seeking,,,,,yes
+AIC-SU26-14,60,2026-10-09,seeking,,,,,yes
+AIC-SU26-16,30,2026-09-14,seeking,,,,,yes
+AIC-SU26-16,60,2026-10-06,seeking,,,,,yes
+AIC-SU26-17,30,2026-09-11,further_education,,,,,no
+AIC-SU26-17,60,2026-10-08,further_education,,,,,no
+AIC-SU26-18,60,2026-10-09,seeking,,,,,no
+AIC-SU26-19,30,2026-09-12,employed_full_time,no,,,sometimes,no
+AIC-SU26-19,60,2026-10-09,employed_full_time,yes,Lumen Marketing Co.,Marketing Coordinator,regularly,no
+AIC-SU26-22,60,2026-10-09,employed_full_time,no,,,sometimes,no
+AIC-SU26-24,30,2026-09-15,seeking,,,,,no

@@ -1,0 +1,76 @@
+﻿participant_id,name,age,cohort,enrollment_date,sessions_attended,sessions_planned,attendance_pct,completed,certificate,pre_score_pct,post_score_pct,skills_gain_pts,latest_followup_status,job_placement,placement_checkpoint_days,employer,job_title,data_as_of
+AIC-SP26-01,Darnell Robinson,20,Spring 2026,2026-02-18,16,16,100,TRUE,FALSE,40,50,10,Employed part-time,TRUE,30,Brightpath Tutoring,Program Assistant,2026-10-09
+AIC-SP26-02,Samuel Cruz,21,Spring 2026,2026-02-04,11,16,68.8,FALSE,FALSE,90,70,-20,,,,,,2026-10-09
+AIC-SP26-03,Marcus Scott,23,Spring 2026,2026-02-20,15,16,93.8,TRUE,TRUE,10,80,70,Internship or apprenticeship,TRUE,60,Brightpath Tutoring,Program Assistant,2026-10-09
+AIC-SP26-04,Kevin Hall,19,Spring 2026,2026-02-18,15,16,93.8,TRUE,TRUE,70,80,10,Employed full-time,TRUE,90,Northgate Logistics,Operations Assistant,2026-10-09
+AIC-SP26-05,Destiny Washington,20,Spring 2026,2026-02-01,11,16,68.8,FALSE,FALSE,50,80,30,,,,,,2026-10-09
+AIC-SP26-06,Javier Young,23,Spring 2026,2026-02-22,16,16,100,TRUE,FALSE,20,30,10,Self-employed or freelance,TRUE,30,Parkview Home Supply,Sales Associate,2026-10-09
+AIC-SP26-07,Rosa Ibrahim,29,Spring 2026,2026-02-18,14,16,87.5,TRUE,TRUE,30,90,60,Employed full-time,TRUE,30,Riverside Community Clinic,Administrative Assistant,2026-10-09
+AIC-SP26-08,Grace Ortiz,34,Spring 2026,2026-02-16,14,16,87.5,TRUE,TRUE,40,70,30,Looking for work,FALSE,,,,2026-10-09
+AIC-SP26-09,Jasmine Ramirez,18,Spring 2026,2026-02-21,15,16,93.8,TRUE,TRUE,40,100,60,Looking for work,FALSE,,,,2026-10-09
+AIC-SP26-10,Valeria Young,24,Spring 2026,2026-02-01,13,16,81.3,TRUE,TRUE,40,90,50,Employed part-time,TRUE,30,Fairmount Tax Services,Bookkeeping Assistant,2026-10-09
+AIC-SP26-11,Gabriel Scott,28,Spring 2026,2026-02-08,14,16,87.5,TRUE,TRUE,60,90,30,Looking for work,FALSE,,,,2026-10-09
+AIC-SP26-12,Sofia Ali,24,Spring 2026,2026-02-22,15,16,93.8,TRUE,TRUE,30,80,50,Employed part-time,FALSE,,,,2026-10-09
+AIC-SP26-13,Sofia Castillo,21,Spring 2026,2026-02-16,15,16,93.8,TRUE,FALSE,20,,,Employed full-time,TRUE,30,Oakline Insurance,Junior Data Analyst,2026-10-09
+AIC-SP26-14,Vanessa Perez,21,Spring 2026,2026-02-03,15,16,93.8,TRUE,TRUE,100,100,0,Employed part-time,FALSE,,,,2026-10-09
+AIC-SP26-15,Devon Ali,24,Spring 2026,2026-02-17,16,16,100,TRUE,TRUE,30,70,40,Looking for work,FALSE,,,,2026-10-09
+AIC-SP26-16,Khalil Adams,23,Spring 2026,2026-02-12,15,16,93.8,TRUE,TRUE,40,100,60,Looking for work,FALSE,,,,2026-10-09
+AIC-SP26-17,Kayla Jackson,23,Spring 2026,2026-02-16,15,16,93.8,TRUE,TRUE,40,80,40,Looking for work,FALSE,,,,2026-10-09
+AIC-SP26-18,Uriel Morales,16,Spring 2026,2026-02-23,16,16,100,TRUE,TRUE,40,100,60,Employed full-time,FALSE,,,,2026-10-09
+AIC-SP26-19,Sofia Scott,18,Spring 2026,2026-02-15,14,16,87.5,TRUE,TRUE,60,90,30,Employed full-time,TRUE,30,Lumen Marketing Co.,Marketing Coordinator,2026-10-09
+AIC-SP26-20,Miguel Ramirez,20,Spring 2026,2026-02-13,12,16,75,FALSE,FALSE,20,70,50,,,,,,2026-10-09
+AIC-SP26-21,Quinn Green,22,Spring 2026,2026-02-17,9,16,56.3,FALSE,FALSE,30,,,,,,,,2026-10-09
+AIC-SP26-22,Priya Lewis,19,Spring 2026,2026-02-08,13,16,81.3,TRUE,FALSE,20,50,30,Internship or apprenticeship,TRUE,30,Northgate Logistics,Operations Assistant,2026-10-09
+AIC-SP26-23,Chloe Foster,23,Spring 2026,2026-02-25,16,16,100,TRUE,TRUE,30,70,40,Internship or apprenticeship,TRUE,60,Metro Housing Authority,Data Entry Specialist,2026-10-09
+AIC-SP26-24,Devon Garcia,26,Spring 2026,2026-02-08,13,16,81.3,TRUE,FALSE,10,30,20,Employed full-time,TRUE,30,Cedar Credit Union,Customer Support Associate,2026-10-09
+AIC-SP26-25,Wesley Nguyen,23,Spring 2026,2026-02-08,5,16,31.3,FALSE,FALSE,,,,,,,,,2026-10-09
+AIC-SP26-26,Mateo Ortiz,21,Spring 2026,2026-02-13,13,16,81.3,TRUE,TRUE,40,70,30,Self-employed or freelance,TRUE,60,Parkview Home Supply,Sales Associate,2026-10-09
+AIC-SU26-01,Ana Garcia,33,Summer 2026,2026-06-07,14,16,87.5,TRUE,TRUE,40,70,30,Internship or apprenticeship,TRUE,60,Brightpath Tutoring,Program Assistant,2026-10-09
+AIC-SU26-02,Hector Wright,21,Summer 2026,2026-06-04,3,16,18.8,FALSE,FALSE,50,,,,,,,,2026-10-09
+AIC-SU26-03,Tiana Singh,31,Summer 2026,2026-06-06,15,16,93.8,TRUE,TRUE,70,100,30,Looking for work,FALSE,,,,2026-10-09
+AIC-SU26-04,Kayla Green,30,Summer 2026,2026-05-17,15,16,93.8,TRUE,TRUE,20,70,50,Employed full-time,TRUE,60,Summit Staffing Partners,IT Help Desk Technician,2026-10-09
+AIC-SU26-05,Noah Coleman,25,Summer 2026,2026-06-03,13,16,81.3,TRUE,TRUE,60,100,40,Looking for work,FALSE,,,,2026-10-09
+AIC-SU26-06,Hassan Mitchell,33,Summer 2026,2026-05-30,12,16,75,FALSE,FALSE,30,60,30,,,,,,2026-10-09
+AIC-SU26-07,Fatima Davis,50,Summer 2026,2026-06-06,13,16,81.3,TRUE,TRUE,30,70,40,Employed part-time,FALSE,,,,2026-10-09
+AIC-SU26-08,Naomi Patel,43,Summer 2026,2026-05-31,13,16,81.3,TRUE,TRUE,30,80,50,Employed full-time,TRUE,30,Metro Housing Authority,Data Entry Specialist,2026-10-09
+AIC-SU26-09,Xavier Perez,19,Summer 2026,2026-06-11,13,16,81.3,TRUE,TRUE,20,90,70,Employed part-time,TRUE,60,Parkview Home Supply,Sales Associate,2026-10-09
+AIC-SU26-10,Andre Davis,32,Summer 2026,2026-05-16,16,16,100,TRUE,TRUE,50,100,50,Looking for work,FALSE,,,,2026-10-09
+AIC-SU26-11,Bianca Patel,20,Summer 2026,2026-05-21,15,16,93.8,TRUE,TRUE,50,90,40,Employed part-time,FALSE,,,,2026-10-09
+AIC-SU26-12,Lena Sanchez,22,Summer 2026,2026-06-05,14,16,87.5,TRUE,TRUE,30,80,50,Employed full-time,TRUE,30,Brightpath Tutoring,Program Assistant,2026-10-09
+AIC-SU26-13,Elena Ali,37,Summer 2026,2026-06-01,15,16,93.8,TRUE,TRUE,20,90,70,Looking for work,FALSE,,,,2026-10-09
+AIC-SU26-14,Carlos Ortiz,27,Summer 2026,2026-06-04,15,16,93.8,TRUE,TRUE,50,70,20,Looking for work,FALSE,,,,2026-10-09
+AIC-SU26-15,Diego Turner,29,Summer 2026,2026-05-22,11,16,68.8,FALSE,FALSE,30,60,30,,,,,,2026-10-09
+AIC-SU26-16,Xavier Hernandez,25,Summer 2026,2026-06-11,13,16,81.3,TRUE,FALSE,30,50,20,Looking for work,FALSE,,,,2026-10-09
+AIC-SU26-17,Grace Nguyen,22,Summer 2026,2026-06-01,14,16,87.5,TRUE,TRUE,20,90,70,In school or a training program,FALSE,,,,2026-10-09
+AIC-SU26-18,Noah Sanchez,47,Summer 2026,2026-06-02,16,16,100,TRUE,TRUE,60,100,40,Looking for work,FALSE,,,,2026-10-09
+AIC-SU26-19,Mateo Kim,52,Summer 2026,2026-05-27,15,16,93.8,TRUE,TRUE,50,90,40,Employed full-time,TRUE,60,Lumen Marketing Co.,Marketing Coordinator,2026-10-09
+AIC-SU26-20,Lamar Davis,18,Summer 2026,2026-06-10,3,16,18.8,FALSE,FALSE,70,,,,,,,,2026-10-09
+AIC-SU26-21,Priya Scott,17,Summer 2026,2026-06-05,10,16,62.5,FALSE,FALSE,20,70,50,,,,,,2026-10-09
+AIC-SU26-22,Miguel Walker,34,Summer 2026,2026-06-04,15,16,93.8,TRUE,FALSE,0,30,30,Employed full-time,FALSE,,,,2026-10-09
+AIC-SU26-23,Luis Ali,17,Summer 2026,2026-05-20,11,16,68.8,FALSE,FALSE,60,60,0,,,,,,2026-10-09
+AIC-SU26-24,Malik Walker,18,Summer 2026,2026-05-28,13,16,81.3,TRUE,TRUE,90,90,0,Looking for work,FALSE,,,,2026-10-09
+AIC-FA26-01,Wei Lee,21,Fall 2026,2026-08-27,5,16,62.5,,,60,,,,,,,,2026-10-09
+AIC-FA26-02,Tanya Ibrahim,17,Fall 2026,2026-08-25,5,16,62.5,,,10,,,,,,,,2026-10-09
+AIC-FA26-03,Jasmine Lee,45,Fall 2026,2026-09-08,7,16,87.5,,,,,,,,,,,2026-10-09
+AIC-FA26-04,Zoe Ali,31,Fall 2026,2026-08-25,7,16,87.5,,,0,,,,,,,,2026-10-09
+AIC-FA26-05,Maya Nguyen,33,Fall 2026,2026-08-28,8,16,100,,,0,,,,,,,,2026-10-09
+AIC-FA26-06,Tanya Adams,52,Fall 2026,2026-08-30,8,16,100,,,20,,,,,,,,2026-10-09
+AIC-FA26-07,Wei Alvarez,52,Fall 2026,2026-08-24,5,16,62.5,,,70,,,,,,,,2026-10-09
+AIC-FA26-08,Brianna Foster,20,Fall 2026,2026-09-01,1,16,12.5,,,80,,,,,,,,2026-10-09
+AIC-FA26-09,Maria Davis,32,Fall 2026,2026-08-24,8,16,100,,,40,,,,,,,,2026-10-09
+AIC-FA26-10,Amir Brooks,31,Fall 2026,2026-09-10,7,16,87.5,,,10,,,,,,,,2026-10-09
+AIC-FA26-11,Mei Foster,21,Fall 2026,2026-08-18,7,16,87.5,,,20,,,,,,,,2026-10-09
+AIC-FA26-12,Yusuf Phillips,19,Fall 2026,2026-08-20,3,16,37.5,,,50,,,,,,,,2026-10-09
+AIC-FA26-13,Khalil Ali,16,Fall 2026,2026-08-27,2,16,25,,,40,,,,,,,,2026-10-09
+AIC-FA26-14,Keisha Alvarez,23,Fall 2026,2026-08-28,7,16,87.5,,,50,,,,,,,,2026-10-09
+AIC-FA26-15,Isaiah White,19,Fall 2026,2026-08-24,7,16,87.5,,,60,,,,,,,,2026-10-09
+AIC-FA26-16,Sean Adams,17,Fall 2026,2026-08-31,4,16,50,,,50,,,,,,,,2026-10-09
+AIC-FA26-17,Rafael Mitchell,23,Fall 2026,2026-08-30,8,16,100,,,20,,,,,,,,2026-10-09
+AIC-FA26-18,Zoe James,47,Fall 2026,2026-08-27,7,16,87.5,,,20,,,,,,,,2026-10-09
+AIC-FA26-19,Chloe Sanchez,27,Fall 2026,2026-08-31,7,16,87.5,,,0,,,,,,,,2026-10-09
+AIC-FA26-20,Lamar Hernandez,51,Fall 2026,2026-08-27,4,16,50,,,40,,,,,,,,2026-10-09
+AIC-FA26-21,Olivia Singh,16,Fall 2026,2026-08-21,5,16,62.5,,,30,,,,,,,,2026-10-09
+AIC-FA26-22,Priya Morales,23,Fall 2026,2026-08-31,8,16,100,,,90,,,,,,,,2026-10-09
+AIC-FA26-23,Rafael Alvarez,24,Fall 2026,2026-09-08,8,16,100,,,10,,,,,,,,2026-10-09
+AIC-FA26-24,Valeria Edwards,19,Fall 2026,2026-09-03,7,16,87.5,,,30,,,,,,,,2026-10-09
+AIC-FA26-25,Imani Ortiz,21,Fall 2026,2026-08-20,7,16,87.5,,,60,,,,,,,,2026-10-09

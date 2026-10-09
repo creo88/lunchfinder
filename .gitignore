@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+# Real participant data never goes in the repo. Keep it in your Google Sheet
+# or load it in the browser with "Load your CSV files".
+data/private/
+exports/
