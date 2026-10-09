@@ -4,3 +4,4 @@ node_modules/
 # or load it in the browser with "Load your CSV files".
 data/private/
 exports/
+dist/

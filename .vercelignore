@@ -1,6 +1,5 @@
-# Only the dashboard goes on the public site. Internal docs (plan review,
-# walkthrough script, assessment answer key), tests, tooling and example
-# exports stay in the repo.
+# Upload only what the site build needs. The build (scripts/build-site.mjs)
+# then serves just dist/, so internal docs stay off the site either way.
 /*
 !index.html
 !assets
@@ -8,3 +7,7 @@
 !vendor
 !data
 !templates
+!scripts
+!package.json
+!package-lock.json
+!vercel.json
