@@ -97,6 +97,12 @@ It's a static site: `index.html`, `assets/`, `src/`, `vendor/` and `data/`.
 Any static host works (GitHub Pages, Netlify, Vercel), which gives the one shared
 link the plan calls for.
 
+It is deployed on Vercel (project `aiclub-impact-dashboard`), linked to this
+repository: every push to the default branch redeploys the live site.
+[`.vercelignore`](.vercelignore) keeps everything except the dashboard and its
+data off the site, so the docs (including the walkthrough script and the
+assessment answer key) are not served.
+
 **Keep real participant data off public links.** The hosted site serves the CSV
 files as they are, so anyone with the link can download the roster. Host the
 sample data for demos. For a real cohort, send the exported PDF and CSVs, or use

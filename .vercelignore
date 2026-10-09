@@ -1,0 +1,10 @@
+# Only the dashboard goes on the public site. Internal docs (plan review,
+# walkthrough script, assessment answer key), tests, tooling and example
+# exports stay in the repo.
+/*
+!index.html
+!assets
+!src
+!vendor
+!data
+!templates
